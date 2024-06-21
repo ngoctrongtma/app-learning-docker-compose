@@ -2,7 +2,7 @@
 
 # backend
 root-project/backend/venv
-root-project/backend/_pycache_
+root-project/backend/__pycache__
 #frontend
 # dependencies
 root-project/frontend/node_modules
